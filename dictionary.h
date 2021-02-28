@@ -1,0 +1,2 @@
+
+//String dictionaryContent[] = {"OSWET"};
